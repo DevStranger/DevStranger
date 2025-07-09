@@ -28,5 +28,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevStranger&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ (not so) Random Quote of the month
+
+> The only time you should ever look back, is to see how far you've come.
+
+### Book of the month
+`"The Second Sex" by Simone de Beauvoir`
